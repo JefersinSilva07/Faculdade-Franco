@@ -1,4 +1,10 @@
-/*#include <iostream>
+
+
+
+
+
+
+#include <iostream>
 #include <locale.h>
 using namespace std;
 
@@ -40,14 +46,14 @@ int main() {
     }
 
 
-}*/
+}
 
  //2- Desenvolver um programa que registre detalhes de livros em
  //uma biblioteca, como título, autor e ano de publicação. O
  //programa deve continuar solicitando informações até que um
  //título de livro específico seja inserido.
 
- /*#include <iostream>
+ #include <iostream>
  #include <locale.h>
  using namespace std;
 
@@ -82,7 +88,7 @@ int main() {
 
     }
 
-  }*/
+  }
 
 
 /*3 - Construir um programa para avaliar filmes, pedindo ao
@@ -92,7 +98,7 @@ enredo, atuação e efeitos especiais. O programa deve permitir a
 avaliação de vários filmes. O programa deve parar quando
 usuário não desejar mais continuar.*/
 
-/*#include <iostream>
+#include <iostream>
 #include <locale.h>
 using namespace std;
 
@@ -145,7 +151,7 @@ int main() {
     cout << "A média das notas da atuação é de: " << mediaAtuacao << endl();
     cout << "A média das notas dos efeitos especiais é de: " << mediaEF << endl();
 
-}*/
+}
 
 
 
@@ -156,7 +162,7 @@ nota final e se ele foi aprovado ou reprovado. O programa deve
 permitir a inserção de dados para vários estudantes até que o
 usuário escolha encerrar. Utilize vetor.*/
 
-/*#include <iostream>
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -196,7 +202,7 @@ int main() {
     }
 
     return 0;
-}*/
+}
 
 /*5 - Implementar um programa para registrar pedidos em um
 restaurante, coletando informações como o nome do prato,
@@ -204,7 +210,7 @@ quantidade e preço total. O programa deve continuar recebendo
 novos pedidos até que um valor específico seja inserido como
 preço.*/
 
-#include <iostream>
+/*#include <iostream>
 #include <locale.h>
 
 
@@ -242,7 +248,7 @@ int main() {
         cin.ignore();  // Limpar o newline do buffer de entrada
     }
 
-
+*/
 
 
 
